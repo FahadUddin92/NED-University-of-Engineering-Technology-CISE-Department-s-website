@@ -1,4 +1,4 @@
-NED_CISE
+NED CISE
 ========
 
 Website I developed for NED CIS. 
